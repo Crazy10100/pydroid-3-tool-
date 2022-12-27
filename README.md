@@ -1,2 +1,3 @@
 # pydroid-3-tool-
 Pydroid 3 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@gamingsiro6yyy/video/7167262395843251483" data-video-id="7167262395843251483" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@gamingsiro6yyy" href="https://www.tiktok.com/@gamingsiro6yyy?refer=embed">@gamingsiro6yyy</a> <a title="foryou" target="_blank" href="https://www.tiktok.com/tag/foryou?refer=embed">#foryou</a> <a target="_blank" title="♬ original sound - gamingsiro6yyy" href="https://www.tiktok.com/music/original-sound-7167262396728363802?refer=embed">♬ original sound - gamingsiro6yyy</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
